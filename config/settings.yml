@@ -12,7 +12,7 @@ project_goal: 100000
 # If you want to edit the FAQ, head over to app/views/preorder/homepage/_faqs.html.erb
 
 # This'll be both the page title (<title></title>) and the name in the header
-product_name: "Selfstarter"
+product_name: "Manjiri's FunFunder"
 
 # This will be used in sentences like Hooray Youve just reserved product_description
 product_description: "a set of widgets"
@@ -22,7 +22,7 @@ product_description: "a set of widgets"
 product_image_path: "my-product-image.png"
 
 # The message on the preorder page, Lockitron's 
-value_proposition: "Roll your own crowdfunding"
+value_proposition: "Testing a Crowdfunding platform"
 
 # YouTube or Vimeo Video URL (The embed URL, without the query string options)
 video_embed_url: "https://www.youtube.com/v/D1L3o88GKew"
@@ -90,7 +90,7 @@ facebook_app_id: "1234567890"
 tweet_text: "to crowdfund"
 
 # Google Analytics
-google_id: "1234567890"
+google_id: "12345678901"
 
 # If you want to change the images for the key points (e.g. "Kickstarter is not a store")
 # They're in app/assets/images/#{pointer_number}-background.png
